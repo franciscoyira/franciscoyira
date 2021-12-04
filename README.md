@@ -12,7 +12,7 @@ I'm Francisco (he/him), a Data Scientist from Chile.
   </a>
   <br>
 
-I'm currently in a 6-month ✨learning sabbatical✨ trying to deepen my data science knowledge and skills (especially regarding machine learning, causal inference, and cloud computing).
+I'm currently in a 6-month ✨learning sabbatical✨ trying to improve my data science skills (especially regarding machine learning, causal inference, and cloud computing).
 
 R is my preferred language, but I also do Python. 
 
