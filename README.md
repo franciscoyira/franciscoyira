@@ -20,10 +20,6 @@ I'm Francisco (he/him), a Data Scientist from Chile.
   </a>
   <br>
 
-I'm currently in a 6-month ✨learning sabbatical✨ trying to improve my data science skills (especially regarding machine learning, causal inference, and cloud computing).
-
-R is my preferred language, but I also do Python. 
-
 📰 You can find more about me and what I'm up to on my blog: [francisco.yira.com](https://www.franciscoyira.com/)   <br>
 📫 You can also reach me at: francisco.yira@outlook.com
 
