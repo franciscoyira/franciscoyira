@@ -7,10 +7,10 @@ I'm Francisco (he/him), a Data Scientist from Chile.
   </a>
   
   
-  <a href="https://twitter.com/francisco_yira">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
+  <a href="https://techhub.social/@franciscoyira">
+    <img src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white" />        
   </a>
-  
+    
   <a href="https://stackoverflow.com/users/7221164/francisco-yir%c3%a1">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />        
   </a>
