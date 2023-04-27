@@ -34,7 +34,7 @@ I'm Francisco (he/him), a Data Scientist from Chile.
   
 
 ### What I use
-<img src="https://img.shields.io/badge/Surface_Pro_8-0078d4?style=for-the-badge&logo=windows-11&logoColor=white"> <img src="https://img.shields.io/badge/iPad_mini_6-000000?style=for-the-badge&logo=apple&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu_on_WSL-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+<img src="https://img.shields.io/badge/Surface_Pro_8-0078d4?style=for-the-badge&logo=windows-11&logoColor=white"> <img src="https://img.shields.io/badge/iPad_mini_6-000000?style=for-the-badge&logo=apple&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu_on_WSL-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"> <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white">
 
 <!--
 **franciscoyira/franciscoyira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
