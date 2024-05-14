@@ -6,9 +6,7 @@ I'm Francisco Yirá (he/him), a Data Scientist living in Toronto, Canada 🍁 an
     <img src="https://img.shields.io/badge/franciscoyira.com-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a><br>
 ✍🏽 I have a <a href="https://www.franciscoyira.com/">data science blog</a> where I share what I've learned recently. Recent topics have included <a href="https://www.franciscoyira.com/categories/causal-inference/">causal inference</a>, <a href="https://www.franciscoyira.com/categories/data-engineering/">data engineering</a> and <a href="https://www.franciscoyira.com/categories/python/">Python programing</a>.  
-
 <br>
-
 🎨 I also have a <a href="https://cv.franciscoyira.com/">portfolio website</a> where you can see my <a href="https://cv.franciscoyira.com/#projects">data science projects</a>, <a href="https://cv.franciscoyira.com/#experience">work experience</a> and <a href="https://cv.franciscoyira.com/#degrees">education</a> in more detail.
 <br>
 
@@ -18,7 +16,7 @@ I'm Francisco Yirá (he/him), a Data Scientist living in Toronto, Canada 🍁 an
 
 I'm really into self-learning so I have many projects in my portfolio. But here are some that I think stand out:
 
-- <a href="https://adventofcode.franciscoyira.com/">Advent of Code Solutions</a>.
+- <a href="https://adventofcode.franciscoyira.com/2023/">Advent of Code Solutions</a>
 - <a href="https://cv.franciscoyira.com/project/causal-inference-posts/">Causal Inference in R (for people who prefer code over maths)</a>
 - <a href="https://cv.franciscoyira.com/project/islr-exercises/">Exercises of the book 'Introduction to Statistical Learning with Applications in R'</a>
 - <a href="https://cv.franciscoyira.com/project/shiny-twitter-constituyentes/">Shiny Dashboard on AWS monitoring engagement with politicians' tweets</a>
